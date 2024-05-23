@@ -8,19 +8,13 @@
 Here, you'll find my projects and code repositories. Feel free to explore, contribute, and reach out if you have any questions or suggestions.
 
 
-### Repository 1: Data Structures and Algorithms
-A collection of various data structures and algorithms implemented in different programming languages.
-
-- **Technologies**: Python, C++, Java
-
-
-### Repository 2: Machine Learning Models
+### Repository 1: Machine Learning Models
 Implementations of various machine learning models and techniques with detailed explanations and example datasets.
 
 - **Technologies**: Python, Scikit-Learn, TensorFlow
 
 
-### Repository 3: Web Development Snippets
+### Repository 2: Web Development Snippets
 A collection of useful web development snippets and mini-projects for quick reference and reuse.
 
 - **Technologies**: HTML, CSS, JavaScript
