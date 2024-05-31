@@ -25,7 +25,7 @@ A collection of useful web development snippets and mini-projects for quick refe
 
 I'm always open to collaborations and discussions. Feel free to connect with me on:
 
-- **LinkedIn**: [Glaston Velvarts]([https://www.linkedin.com/in/glaston-velvarts-624252195/])
+- **LinkedIn**:[Glaston Velvarts](https://www.linkedin.com/in/glaston-velvarts-624252195/)
 - **Twitter**: [@GlastonVelvarts](https://twitter.com/VelvartsGlaston)
 - **Email**: glastonvelvarts@gmail.com
 
