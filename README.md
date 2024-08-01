@@ -1,4 +1,3 @@
-Creating a README file for your Python project is a great way to provide an overview and usage instructions. Here is an example README file for your project:
 
 ---
 
@@ -85,5 +84,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Special thanks to [A1 Letters](https://www.a1letters.com/) for providing additional letter templates.
 
 ---
-
-You can customize this README file as needed, including more details about the project or modifying the instructions to match your specific requirements.
